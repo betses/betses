@@ -1,7 +1,6 @@
 ### Hi 👋, I am Betsegaw   ✨Betse✨
 
 
-- 🔭 I’m currently Learning
 - 🌱 I’m currently learning Software Development
 - 💬 Ask me about anything Programing related stuff
 - 😄 Interests: Adventure, Technology
