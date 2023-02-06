@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Software Development
-- 💬 Ask me about anything Programing related stuff
+- 💬 Ask me about anything Programming related stuff
 - 😄 Interests: Adventure, Technology
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betses&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
